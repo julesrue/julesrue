@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 5px;
+    margin-bottom: 1px
+}
+
+header{
+    color:white; background: #2e3131
+}
+footer{
+    color:white; background:black
+}
+#canelo{
+   font: 42px unset bold;
+   text-align: center;
+   background: #2e3131; color: #e8e8e8;
+   
+}
+nav{
+    font-size: 25px;
+}
+#canelo2{
+    font-size: 35;
+    font-family: sans-serif
+}
+#perrito{
+    text-align: center;
+}
+#pag{
+    color: lime; background: black;
+    text-align: center;
+    font: 25px
+}
+.agrupar{
+    width: 1200px;
+    background: #95a5a6;
+    margin: auto
+}
+#derechos{
+    text-align: center;
+    font: 25px bold 
+}
+.menu{
+    background: #dadfe1;
+    text-align: center;
+}
+.menu li{
+    list-style: none; 
+    border: 1px solid black;
+    padding: 5px;
+    display: inline-block;
+}
+.authorr cite{
+    color: #ffec8b; background: gray;
+    text-align: right;
+}
+article{
+    background: #bfbfbf;
+    border: 1px solid #bfbfbf;
+    padding: 25px;
+    margin-bottom: 20px; 
+}
+article footer{
+    text-align: right;
+}
+blockquote{
+    text-align: justify;
+}
+body{
+    background: #67809f
+}
